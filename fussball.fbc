@@ -1,5 +1,5 @@
-tops: "z_tops"
+tops: "tops"
 tmp: ".tmp"
 rendering: ".tmp/rendering"
-artifacts: "z_artifacts/get.yml"
+artifacts: "artifacts/get.yml"
 mastersudo: True

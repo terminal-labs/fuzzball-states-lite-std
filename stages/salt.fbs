@@ -1,0 +1,8 @@
+some_call_salt:
+  name: demo
+  driver: "shell"
+  formater: "shell"
+  command: >
+    echo "hello"
+  flags:
+      - expect-json
